@@ -8,7 +8,7 @@
 
 ### 💡 About Me:
 
-I’m a **Web Developer** with a passion for building interactive and dynamic websites. Specializing in **HTML, CSS, JavaScript, React.js**, and **Python**, I have hands-on experience working on both **front-end** and **full-stack development**. I'm always looking to contribute to innovative projects and create seamless user experiences.
+I’m a **Web Developer** with a passion for building interactive and dynamic websites. Specializing in **HTML, CSS, JavaScript, React.js,SQL,Java**, and **Python**, I have hands-on experience working on both **front-end** and **full-stack development**. I'm always looking to contribute to innovative projects and create seamless user experiences.
 
 - 📍 Based in **Kundapura, Udupi**
 - 📧 Reach me at [vikaskumarna100@gmail.com](mailto:vikaskumarna100@gmail.com)
@@ -85,7 +85,7 @@ I’m a **Web Developer** with a passion for building interactive and dynamic we
 
 ### 🎓 Education:
 
-- **B. Tech in Computer Science** | *Srinivas University* (2021 - Present)
+- **B. Tech in Computer Science** | *Srinivas University* (2021 - 2025)
 - **PUC in PCMB** | *GPUC Hosangadi* (2019 - 2021)
 - **SSLC** | *GHS Siddapura* (2019)
 
