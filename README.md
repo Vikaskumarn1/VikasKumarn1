@@ -1,12 +1,12 @@
 # Hello there! I'm Vikas Kumar 👨‍💻🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75910&width=600&lines=Web+Developer+%7C+Frontend+Developer;Java+%7C+React.js+Developer;AI+%26+NLP+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75910&width=600&lines=Java+Full+Stack+Developer;Web+Developer+%7C+Frontend+Developer;Java+%7C+React.js+Developer;AI+%26+NLP+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ### 💡 About Me:
 
-I’m a **Computer Science Engineer** and a **Frontend / Web Developer** with a strong foundation in **Java, Web Technologies, React.js, Spring Boot**, and **AI-based applications**. I enjoy building responsive UIs, creating dynamic features, and applying real-world development skills gained through projects and internships.
+I’m a **Computer Science Engineer** and a **Java FullStack Developer** with a strong foundation in **Java, Web Technologies, React.js, Spring Boot**. I enjoy building responsive UIs, creating dynamic features, and applying real-world development skills gained through projects and internships.
 
 - 📍 Based in **Kundapura, Udupi / Bangalore**
 - 📧 Reach me at **vikaskumarna100@gmail.com**
@@ -23,14 +23,15 @@ I’m a **Computer Science Engineer** and a **Frontend / Web Developer** with a 
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 #### 🖥️ Frameworks & Libraries:
 <p align="left">
   <img src="https://img.shields.io/badge/React.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-02569B.svg?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
 #### 🛠 Tools & Platforms:
