@@ -1,6 +1,6 @@
 # Hello there! I'm Vikas Kumar 👨‍💻🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75910&width=600&lines=Java+Full+Stack+Developer;Web+Developer+%7C+Frontend+Developer;Java+%7C+React.js+Developer;AI+%26+NLP+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F75910&width=600&lines=Java+Full+Stack+Developer;Web+Developer+%7C+Frontend+Developer;Java+%7C+React.js+Developer;](https://git.io/typing-svg)
 
 ---
 
